@@ -73,4 +73,4 @@ Permite **controle refinado de acesso**, **facilidade de manutenção** e segue 
 O arquivo `.sql` com toda a implementação passo a passo está disponível no repositório **Lab-SQLServer--RBAC-** como:  
 [`RBAC-Users-Logins.sql`](./RBAC-Users-Logins.sql)  
 
-> Basta executar este arquivo para criar os LOGINS, USERS, ROLES, permissões e associações conforme descrito neste README.
+
